@@ -1,0 +1,6 @@
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\BigMoney\bin\Debug\BigMoney.exe.config
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\BigMoney\bin\Debug\BigMoney.exe
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\BigMoney\bin\Debug\BigMoney.pdb
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\BigMoney\obj\Debug\BigMoney.csprojResolveAssemblyReference.cache
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\BigMoney\obj\Debug\BigMoney.exe
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\BigMoney\obj\Debug\BigMoney.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Avion\obj\Debug\Avion.csprojResolveAssemblyReference.cache
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Avion\bin\Debug\Avion.exe.config
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Avion\bin\Debug\Avion.exe
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Avion\bin\Debug\Avion.pdb
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Avion\obj\Debug\Avion.exe
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Avion\obj\Debug\Avion.pdb

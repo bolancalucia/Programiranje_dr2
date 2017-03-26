@@ -1,0 +1,6 @@
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\SamoGym\bin\Debug\SamoGym.exe.config
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\SamoGym\bin\Debug\SamoGym.exe
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\SamoGym\bin\Debug\SamoGym.pdb
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\SamoGym\obj\Debug\SamoGym.csprojResolveAssemblyReference.cache
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\SamoGym\obj\Debug\SamoGym.exe
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\SamoGym\obj\Debug\SamoGym.pdb

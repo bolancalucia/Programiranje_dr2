@@ -1,0 +1,6 @@
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\TheVoice\bin\Debug\TheVoice.exe.config
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\TheVoice\bin\Debug\TheVoice.exe
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\TheVoice\bin\Debug\TheVoice.pdb
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\TheVoice\obj\Debug\TheVoice.csprojResolveAssemblyReference.cache
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\TheVoice\obj\Debug\TheVoice.exe
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\TheVoice\obj\Debug\TheVoice.pdb

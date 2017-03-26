@@ -1,0 +1,6 @@
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Pec!\obj\Debug\Pec!.csprojResolveAssemblyReference.cache
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Pec!\bin\Debug\Pec!.exe.config
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Pec!\bin\Debug\Pec!.exe
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Pec!\bin\Debug\Pec!.pdb
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Pec!\obj\Debug\Pec!.exe
+C:\Users\Lucia Bolanča\Desktop\DUMP\Programiranje\Programiranje_dr2\Pec!\obj\Debug\Pec!.pdb
